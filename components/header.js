@@ -35,7 +35,7 @@ headerTemplate.innerHTML = `
     <nav>
       <ul>
         <li><a href="/index.html">About Me</a></li>
-        <li><a href="/portfolio.html">MERN Portfolio</a></li>
+        <li><a href="/news.html">News</a></li>
         <li><a href="/contact.html">Contact</a></li>
       </ul>
     </nav>
