@@ -45,10 +45,10 @@ class Footer extends HTMLElement {
       </style>
       <footer>
         <ul>
-          <li>Dan Grigore - Portfolio website for the MIT xPRO Professional Certificate in Coding (2021)</li>
+          <li>Dan Grigore - Portfolio website (2025)</li>
         </ul>
         <ul class="social-row">
-          <li><a href="https://github.com/emeritus101" target="_blank"><i class="fab fa-github"></i></a></li>
+          <li><a href="https://github.com/" target="_blank"><i class="fab fa-github"></i></a></li>
           <li><a href="https://twitter.com/no-twitter-profile" target="_blank"><i class="fab fa-twitter"></i></a></li>
           <li><a href="https://www.linkedin.com/in/dgrigore" target="_blank"><i class="fab fa-linkedin"></i></a></li>
         </ul>
