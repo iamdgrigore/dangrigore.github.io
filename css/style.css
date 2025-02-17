@@ -2,8 +2,8 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-    margin-top: 60px; /* Space for fixed header */
-    margin-bottom: 60px; /* Space for fixed footer */
+    /*margin-top: 60px; /* Space for fixed header */
+    /*margin-bottom: 60px; /* Space for fixed footer */
   }
   
   html, body {
@@ -15,8 +15,7 @@
     font-family: sans-serif;
     display: flex;
     flex-direction: column;
-    height: auto;
-    width: 100%;
+    height: 80%;
   }
   
   main {
