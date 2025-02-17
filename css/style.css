@@ -5,22 +5,26 @@
     /*margin-top: 60px; /* Space for fixed header */
     /*margin-bottom: 60px; /* Space for fixed footer */
   }
-  
-  html, body {
+
+html, body {
     height: 100%;
-  }
-  
-  body {
+    margin: 0;
+    padding: 0;
+}
+
+body {
     color: #333;
     font-family: sans-serif;
     display: flex;
     flex-direction: column;
-    height: 80%;
-  }
-  
-  main {
-    flex: 0 0 auto;
-  }
+    width: 100%;
+    min-height: calc(100vh - 100px);
+}
+
+main {
+    /*flex: 0 0 auto;*/
+    min-height: calc(100vh - 100px);
+}
 
   :host {
     all: initial;
@@ -105,12 +109,11 @@ p.a {
     font-size: 18px;
   }
 
-  .grid-container {
+.grid-container {
     display: grid;
-    grid-template-rows: 60 auto 60;
+    grid-template-rows: 40 max-content 30;
     background-color: #0a0a23;
-    
-  }
+}
   .grid-item {
     background-color: rgba(255, 255, 255, 0.8);
     font-size: 14px;

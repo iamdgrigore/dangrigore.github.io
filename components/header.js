@@ -12,6 +12,7 @@ headerTemplate.innerHTML = `
       align-items: center;
       justify-content: center;
       background-color:  #0a0a23;
+      z-index: 1000
     }
 
     ul {
