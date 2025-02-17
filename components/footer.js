@@ -27,6 +27,7 @@ class Footer extends HTMLElement {
           display: inline;
           font-weight: bold;
           font-style: italic;
+          color: #fff;
         }
         
         a {

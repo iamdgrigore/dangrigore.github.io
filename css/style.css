@@ -19,8 +19,8 @@ body {
     flex-direction: column;
     width: 100%;
     min-height: calc(100vh - 100px);
-    margin-top: 60px; /* Space for fixed header */
-    margin-bottom: 60px; /* Space for fixed footer */
+    margin-top: 0px; /* Space for fixed header */
+    margin-bottom: 0px; /* Space for fixed footer */
 }
 
 main {
