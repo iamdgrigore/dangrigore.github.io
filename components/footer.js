@@ -18,7 +18,7 @@ class Footer extends HTMLElement {
           display: flex;
           justify-content: space-between;
           align-items: center;
-          background-color: #dfdfe2;
+          background-color:  #0a0a23;
           z-index: 1000;
         }
         
@@ -31,7 +31,7 @@ class Footer extends HTMLElement {
         
         a {
           margin: 0 15px;
-          color: inherit;
+          color: #fff;
           text-decoration: none;
         }
         
