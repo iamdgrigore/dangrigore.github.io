@@ -2,7 +2,7 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-    /*margin-top: 60px; /* Space for fixed header */
+    margin-top: 60px; /* Space for fixed header */
     /*margin-bottom: 60px; /* Space for fixed footer */
   }
 
