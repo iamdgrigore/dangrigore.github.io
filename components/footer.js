@@ -19,6 +19,7 @@ class Footer extends HTMLElement {
           justify-content: space-between;
           align-items: center;
           background-color: #dfdfe2;
+          z-index: 1000;
         }
         
         ul li {
